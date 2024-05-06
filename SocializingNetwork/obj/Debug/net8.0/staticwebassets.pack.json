@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\obj\\Debug\\net8.0\\compressed\\6cw6qkequ0.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SocializingNetwork.styles.css",
+      "PackagePath": "staticwebassets\\SocializingNetwork.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\riley\\RiderProjects\\SocializingNetwork\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SocializingNetwork.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SocializingNetwork.props",
+      "PackagePath": "build\\SocializingNetwork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SocializingNetwork.props",
+      "PackagePath": "buildMultiTargeting\\SocializingNetwork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SocializingNetwork.props",
+      "PackagePath": "buildTransitive\\SocializingNetwork.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
