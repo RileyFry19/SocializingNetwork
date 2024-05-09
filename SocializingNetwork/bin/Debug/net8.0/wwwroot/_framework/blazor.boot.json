@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SocializingNetwork",
   "resources": {
-    "hash": "sha256-rqKfHDgAzcmDKUHOX7tXCWrYz8plPaMphQEGBR5RPEk=",
+    "hash": "sha256-CRLRrqv8LOZvKZtXOF0vrq+r+xxRacv0Su9r6KNHRb8=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.2fzudyklno.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "SocializingNetwork.wasm": "sha256-2YIT1KzwPFDN4FlQs/5UDGYLhiqr6ATWOjyiQ89fzCY="
+      "SocializingNetwork.wasm": "sha256-F5wT3NsiQbXGf6C5LO9MUkRj2GBI1kl5YjuQKeff5dk="
     },
     "pdb": {
-      "SocializingNetwork.pdb": "sha256-8NCOfxGvbkr53PDnXtVMdPTE2C7mt/SXxSogaInPYVc="
+      "SocializingNetwork.pdb": "sha256-g8PWvBmRyMbfRP+NEOPsGJ77AiYZBDf+5o6mrmv2fTc="
     }
   },
   "cacheBootResources": true,
