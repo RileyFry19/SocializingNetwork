@@ -9,47 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp1
 build_property.RootNamespace = BlazorApp1
-build_property.ProjectDir = C:\Users\Riley\RiderProjects\BlazorApp1\BlazorApp1\
+build_property.ProjectDir = C:\Users\Riley\Desktop\SocializingNetwork\BlazorApp1\BlazorApp1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Riley\RiderProjects\BlazorApp1\BlazorApp1
+build_property.MSBuildProjectDirectory = C:\Users\Riley\Desktop\SocializingNetwork\BlazorApp1\BlazorApp1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/App.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Home.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/Friends.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGcmllbmRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Login.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/SignUp.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/SignUp.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaWduVXAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Welcome.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/Welcome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWxjb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/Routes.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/_Imports.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/Layout/MainLayout.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-j65y7q72mt
 
-[C:/Users/Riley/RiderProjects/BlazorApp1/BlazorApp1/Components/Layout/NavMenu.razor]
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-5bndfk4shp

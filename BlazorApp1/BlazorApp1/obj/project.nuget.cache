@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E5xinxZb/xbcrxmIC3youtnHUJlGqBj2JLrEKz/I45sHNxkwM5xWzY4Sr0oXHLGDWK2fEzWPCaGa5duV3bQTfg==",
+  "dgSpecHash": "8lDlERb2fmeQyRPzbA93eqPJE85swaQ67HY9D54UzScU6zGCwP6bao67wV1wcBxRWQ7vJBH1ZcoVPVnhRxhrNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Riley\\RiderProjects\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "C:\\Users\\Riley\\Desktop\\SocializingNetwork\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Riley\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Riley\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

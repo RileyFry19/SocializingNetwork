@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riley\\RiderProjects\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Users\\Riley\\Desktop\\SocializingNetwork\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riley\\RiderProjects\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Users\\Riley\\Desktop\\SocializingNetwork\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riley\\RiderProjects\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Riley\\Desktop\\SocializingNetwork\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "C:\\Users\\Riley\\RiderProjects\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectPath": "C:\\Users\\Riley\\Desktop\\SocializingNetwork\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\Riley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riley\\RiderProjects\\BlazorApp1\\BlazorApp1\\obj\\",
+        "outputPath": "C:\\Users\\Riley\\Desktop\\SocializingNetwork\\BlazorApp1\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Riley\\AppData\\Roaming\\NuGet\\NuGet.Config",
