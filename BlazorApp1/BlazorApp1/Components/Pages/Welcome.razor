@@ -1,0 +1,45 @@
+@page "/"
+@inject NavigationManager NavigationManager
+
+<!DOCTYPE html>
+<html>
+<body>
+<div class="jumbotron jumbotron-fluid bg-primary text-white mb-0">
+    <div class="container">
+        <h1 class="display-4">Welcome to JoeShmo!</h1>
+        <p class="lead">The site where you post your opinions to your friends so they can ignore you!</p>
+    </div>
+</div>
+
+<div class="list-group">
+    <a class="list-group-item list-group-item-action flex-column align-items-start active opacity-75">
+        <div class="d-flex justify-content-center">
+            <ul class="list-group">
+                <li class="list-group-item active"><h1 class="mb-1">Directory</h1></li>
+                <li class="list-group-item active"><button type="button" class="btn btn-primary btn-lg" @onclick="LogIn">Log In</button></li>
+                <li class="list-group-item active"><button type="button" class="btn btn-primary btn-lg" @onclick="SignUp">Sign Up</button></li>
+            </ul>
+        </div>
+    </a>
+</div>
+
+<footer class="footer mt-auto py-3 bg-light">
+    <div class="container text-center">
+        <span class="text-muted">JoeShmo &copy; 2024</span>
+    </div>
+</footer>
+</body>
+</html>
+
+@code {
+    private void SignUp()
+    {
+        NavigationManager.NavigateTo("/signup");
+    }
+
+    private void LogIn()
+    {
+        NavigationManager.NavigateTo("/login");
+    }
+}
+
