@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/AddFriends.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZGRGcmllbmRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Riley/Desktop/SocializingNetwork/BlazorApp1/BlazorApp1/Components/Pages/Friends.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGcmllbmRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
