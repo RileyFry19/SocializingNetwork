@@ -1,6 +1,6 @@
 @page "/signup"
-@using TheSocializingNetwork.Data
-@using TheSocializingNetwork.Models
+@using BlazorApp1.Data
+@using BlazorApp1.Models
 @inject DBServices db
 @rendermode InteractiveServer
 
@@ -52,9 +52,9 @@ User user = new User();
 
 private void SaveUser()
 {
-Profile profile = new Profile();
-profile.PictureUrl = "";
-db.CreateAccount(user, profile);
+    Profile profile = new Profile();
+    profile.PictureUrl = "";
+    db.CreateAccount(user, profile);
 }
 
 }
